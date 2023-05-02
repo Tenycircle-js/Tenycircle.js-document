@@ -24,25 +24,24 @@ with ($) {
 ```
 (推奨されません)
 # 各メソッドの説明
-# 以下、`$`を省略
 ## `$.id`メソッド
 ### 引数 １つ string | array
 ### 返り値 htmlElement | null
 ### 使用例
 ```javascript
-id`id1`.innerHTML
+$.id`id1`.innerHTML
 ```
 ## `$.class`メソッド
 ### 引数 １つ string | array
 ### 返り値 htmlElement | null
 ### 使用例
 ```javascript
-class`class1`
+$.class`class1`
 ```
 ## `$.name`メソッド
 ### 引数 １つ string | array
 ### 返り値 htmlElement | null
 ### 使用例
 ```javascript
-name`name`
+$.name`name`
 ```
