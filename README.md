@@ -111,3 +111,7 @@ $.firsttext`abcdefghijklmnopqrstuvwxyz` // => "a"
 ```javascript
 $.lasttext`abcdefghijklmnopqrstuvwxyz` // => "z"
 ```
+## `$.max,$.min`メソッド
+### 概要
+大きい方、、小さい方を返す
+### カリー化済み 引数 2つ string | Array | number , string | Array | number
