@@ -71,4 +71,8 @@ $.tag`button`
 ```javascript
 $.text($.id`a`,"new text!!")
 ```
+## `$.load`メソッド
+### 概要
+htmlが全て読み込まれた時に実行する
+### 引数 1つ function
 
