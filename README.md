@@ -93,3 +93,21 @@ $.DOMload(function(){
   //処理...
 })
 ```
+## `$.firsttext`メソッド
+### 概要
+最初の文字を返す
+### 引数 1つ string | Array
+### 返り値 string
+### 使用例
+```javascript
+$.firsttext`abcdefghijklmnopqrstuvwxyz` // => "a"
+```
+## `$.lasttext`メソッド
+### 概要
+最後の文字を返す
+### 引数 1つ string | Array
+### 返り値 string
+### 使用例
+```javascript
+$.lasttext`abcdefghijklmnopqrstuvwxyz` // => "z"
+```
