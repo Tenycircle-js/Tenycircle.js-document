@@ -23,3 +23,7 @@ with ($) {
 }
 ```
 (推奨されません)
+# 各メソッドの説明
+## `$.id`メソッド
+### 引数 １つ string | array
+### 返り値 htmlElement | null
