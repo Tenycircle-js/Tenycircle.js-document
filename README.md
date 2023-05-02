@@ -75,4 +75,21 @@ $.text($.id`a`,"new text!!")
 ### 概要
 htmlが全て読み込まれた時に実行する
 ### 引数 1つ function
-
+### 返り値 なし
+### 使用例
+```javascript
+$.load(function(){
+  //処理...
+})
+```
+## `$.DOMload`メソッド
+### 概要
+htmlが画像以外読み込まれた時に実行する
+### 引数 1つ function
+### 返り値 なし
+### 使用例
+```javascript
+$.DOMload(function(){
+  //処理...
+})
+```
