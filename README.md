@@ -6,7 +6,8 @@
 <script src="pass/to/Tenycircle.min.js"></script>
 ```
 ## cdnから
-jsdeliverなどで```html
+jsdeliverなどで
+```html
 <script src="https://cdn.jsdelivr.net/gh/Tenycircle-js/Tenycircle.js@main/TenyCircle.min.js"></script>
 ```
 # 使用する方法
