@@ -27,3 +27,7 @@ with ($) {
 ## `$.id`メソッド
 ### 引数 １つ string | array
 ### 返り値 htmlElement | null
+### 使用例
+```javascript
+id`id1`.innerHTML
+```
