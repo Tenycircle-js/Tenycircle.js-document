@@ -60,3 +60,15 @@ $.name`name`
 ```javascript
 $.tag`button`
 ```
+## `$.text`メソッド
+### 概要
+対象のテキストを取得、または再定義する
+### 引数 2つ htmlElement , string※無くてもいい
+### 返り値
+第2引数を設定しなかったら対象のtextContent
+設定したらなし
+### 使用例
+```javascript
+$.text($.id`a`,"new text!!")
+```
+
