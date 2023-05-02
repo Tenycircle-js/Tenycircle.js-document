@@ -51,3 +51,12 @@ name属性でDOM要素群を取得します
 ```javascript
 $.name`name`
 ```
+## `$.tag`
+### 概要
+タグ名でDOM要素群を取得する
+### 引数 1つ string | array
+### 返り値 htmlElement | null
+### 使用例
+```javascript
+$.tag`button`
+```
