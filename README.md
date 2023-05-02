@@ -1,7 +1,8 @@
 # Tenycircle.js-document
 # ダウンロード
 ## githubから
-ダウンロードして```html
+ダウンロードして
+```html
 <script src="pass/to/Tenycircle.min.js"></script>
 ```
 ## cdnから
