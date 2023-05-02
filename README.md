@@ -10,3 +10,10 @@ jsdeliverなどで`<script src="https://cdn.jsdelivr.net/gh/Tenycircle-js/Tenyci
 または
 
 ``` $.メソッド名`引数(文字のみ)` ```
+# `$.`を省略
+```javascript
+with ($) {
+  //コード
+}
+```
+(推奨されません)
