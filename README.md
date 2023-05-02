@@ -25,6 +25,8 @@ with ($) {
 (推奨されません)
 # 各メソッドの説明
 ## `$.id`メソッド
+### 概要
+idでDOM要素を取得します
 ### 引数 １つ string | array
 ### 返り値 htmlElement | null
 ### 使用例
@@ -32,6 +34,8 @@ with ($) {
 $.id`id1`.innerHTML
 ```
 ## `$.class`メソッド
+### 概要
+classでDOM要素群を取得する
 ### 引数 １つ string | array
 ### 返り値 htmlElement | null
 ### 使用例
@@ -39,6 +43,8 @@ $.id`id1`.innerHTML
 $.class`class1`
 ```
 ## `$.name`メソッド
+### 概要
+name属性でDOM要素群を取得します
 ### 引数 １つ string | array
 ### 返り値 htmlElement | null
 ### 使用例
