@@ -115,3 +115,9 @@ $.lasttext`abcdefghijklmnopqrstuvwxyz` // => "z"
 ### 概要
 大きい方、、小さい方を返す
 ### カリー化済み 引数 2つ string | Array | number , string | Array | number
+### 返り値 number
+### 使用例
+```javascript
+$.min`5``3` // => 3
+$.max`5``3` // => 5
+```
